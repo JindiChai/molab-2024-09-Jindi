@@ -26,4 +26,4 @@ One problem I encountered during programming was that when I used the default ba
 # Week 5
 This week, I continued improving my app based on the project from last week. I applied the @AppStorage functionality that I learned this week to replace the previously used @State. Now, after users use the focus timer, the system will automatically save the last selected duration, making it more convenient for users to repeat their focus sessions. Additionally, I used @AppStorage to add a counter feature, which tracks how many times the user has focused.
 
-Beyond that, I also improved the UI of the focus timer. I added a background color to the main interface and implemented a visual timeline when the focus session starts. This allows users to clearly see how much time has passed during their session.
+Beyond that, I also improved the UI of the focus timer. I added a background color to the main interface and implemented a visual remaining time bar when the focus session starts. This allows users to clearly see how much time has passed during their session.
